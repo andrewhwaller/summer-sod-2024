@@ -66,7 +66,7 @@
   @apply text-center grid h-full;
 
   h1 {
-    @apply text-5xl font-normal;
+    @apply text-5xl font-normal leading-15;
   }
 }
 .slidev-layout.quote {
